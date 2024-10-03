@@ -1,5 +1,5 @@
 # EDA-on-AMCAT-Data
-# Project Title: Data Analysis and Insights
+# Project Title: Exploratory Data Analysis on AMCAT data
 
 ## Introduction
 
